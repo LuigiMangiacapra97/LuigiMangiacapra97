@@ -10,9 +10,13 @@ Hi! I’m Luigi Mangiacapra 👋, a Full-Stack Developer with 7+ years of experi
 
 ## 🚀 Personal projects
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| **VenuePlay** | B2B platform for commercial activities (physical and/or online) with gamification, loyalty, and analytics. | Angular · Node.js (Express + Socket.io + MySql2) · MySQL · Stripe | https://venueplay.it |
+## 🚀 Personal projects
+
+| Project       | Description                                                                                                                                                                                        | Stack                                                             | Link                 | Status      |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------- | ----------- |
+| **VenuePlay** | B2B platform for commercial activities, physical and/or online, with gamification, loyalty, and analytics.                                                                                         | Angular · Node.js (Express + Socket.io + MySql2) · MySQL · Stripe | -                    | On break    |
+| **VoxFuture** | Desktop application that allows users of any nationality to speak in their native language and output a translated voice in another language on Meet, Teams, Discord, and other meeting platforms. | Electron · Angular · Python · MySQL                               | -                    | In progress |
+| **Kartella**  | Platform for Italian professionals designed to speed up case management by simplifying document collection and collaboration between all parties involved in a case.                               | Next.js · MySQL · Prisma                                          | https://kartella.it  | In progress |
 
 
 ---
